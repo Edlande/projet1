@@ -1,2 +1,2 @@
-# projet1
+# restaurant-app
 projet de restaurant sur angular
